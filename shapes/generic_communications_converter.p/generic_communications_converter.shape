@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>generic_communications_converter.p - generic_communications_converter</name>
+        <icon>generic_communications_converter-icon.png</icon>
+        <connections>
+        <point x="15" y="18"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="37"/>
+        <point x="30" y="37"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="37" xlink:href="generic_communications_converter.svg"/>
+        </svg:svg>
+        </shape>

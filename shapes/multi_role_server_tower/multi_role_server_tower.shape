@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>multi_role_server_tower - multi_role_server_tower</name>
+        <icon>multi_role_server_tower-icon.png</icon>
+        <connections>
+        <point x="15" y="18"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="36"/>
+        <point x="30" y="36"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="36" xlink:href="multi_role_server_tower.svg"/>
+        </svg:svg>
+        </shape>

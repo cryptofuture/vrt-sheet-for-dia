@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>VRT Network &amp; Power</name>
+<description>Base on VRT extension for LibreOffice Draw</description>
+<contents>
+<!--add shapes here-->
+<object name="local_network_segment_subnet - local_network_segment_subnet">
+<description>Local Network Segment / Subnet</description></object><object name="internet_wireless_network - internet_wireless_network">
+<description>Internet / Wireless Network</description></object><object name="firewall - firewall">
+<description>Firewall</description></object><object name="rack_mounted_switch - rack_mounted_switch">
+<description>Rack Mounted Switch</description></object><object name="workgroup_switch - workgroup_switch">
+<description>Workgroup Switch</description></object><object name="router - router">
+<description>Router</description></object><object name="wifi_access_point_router - wifi_access_point_router">
+<description>Wifi Access Point / Router</description></object><object name="wifi_access_point_router_upright. - wifi_access_point_router_upright">
+<description>Wifi Access Point / Router - Upright</description></object><object name="unified_communications_pbx - unified_communications_pbx">
+<description>Unified Communications PBX</description></object><object name="fobot_fibre_optic_breakout_tray - fobot_fibre_optic_breakout_tray">
+<description>FOBOT (Fibre-optic Breakout Tray)</description></object><object name="industrial_switch_din - industrial_switch_din">
+<description>Industrial Switch - DIN</description></object><object name="industrial_fibre_ethernet_converter_din - industrial_fibre_ethernet_converter_din">
+<description>Industrial Fibre/Ethernet Converter - DIN</description></object><object name="industrial_ethernet_serial_converter_din - industrial_ethernet_serial_converter_din">
+<description>Industrial Ethernet/Serial Converter - DIN</description></object><object name="industrial_gsm_modem_router_din - industrial_gsm_modem_router_din">
+<description>Industrial WiFi/GSM Modem/Router - DIN</description></object><object name="industrial_gsm_modem_router_surface - industrial_gsm_modem_router_surface">
+<description>Industrial GSM Modem/Router - Surface</description></object><object name="wireless_base_coronis_waveport - wireless_base_coronis_waveport">
+<description>Wireless Base (Coronis Waveport)</description></object><object name="generic_wireless_base - generic_wireless_base">
+<description>Generic Wireless/Base</description></object><object name="generic_dish - generic_dish">
+<description>Generic Dish</description></object><object name="dialup_modem - dialup_modem">
+<description>Dial-up Modem</description></object><object name="generic_communications_converter.p - generic_communications_converter">
+<description>Generic Communications Converter</description></object><object name="uninterruptible_power_supply - uninterruptible_power_supply">
+<description>Uninterruptible Power Supply</description></object><object name="deep_cycle_battery - deep_cycle_battery">
+<description>Deep-Cycle Battery</description></object><object name="solar_panel - solar_panel">
+<description>Solar Panel</description></object></contents></sheet>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>industrial_gsm_modem_router_surface - industrial_gsm_modem_router_surface</name>
+        <icon>industrial_gsm_modem_router_surface-icon.png</icon>
+        <connections>
+        <point x="15" y="31"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="62"/>
+        <point x="30" y="62"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="62" xlink:href="industrial_gsm_modem_router_surface.svg"/>
+        </svg:svg>
+        </shape>

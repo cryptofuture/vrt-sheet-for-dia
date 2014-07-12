@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>network_attached_storage_server - network_attached_storage_server</name>
+        <icon>network_attached_storage_server-icon.png</icon>
+        <connections>
+        <point x="15" y="14"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="28"/>
+        <point x="30" y="28"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="28" xlink:href="network_attached_storage_server.svg"/>
+        </svg:svg>
+        </shape>

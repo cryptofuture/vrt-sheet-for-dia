@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>internet_wireless_network - internet_wireless_network</name>
+        <icon>internet_wireless_network-icon.png</icon>
+        <connections>
+        <point x="15" y="6"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="13"/>
+        <point x="30" y="13"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="13" xlink:href="internet_wireless_network.svg"/>
+        </svg:svg>
+        </shape>

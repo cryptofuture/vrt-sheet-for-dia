@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>VRT Sensors &amp; Controllers</name>
+<description>Base on VRT extension for LibreOffice Draw</description>
+<contents>
+<!--add shapes here-->
+<object name="a_b_controlLogix_plc - a_b_controlLogix_plc">
+<description>A-B ControlLogix PLC</description></object><object name="a_b_FlexIO - a_b_FlexIO">
+<description>A-B FlexIO</description></object><object name="a_b_FlexIO_module - a_b_FlexIO_module">
+<description>A-B FlexIO Module</description></object><object name="generic_controller - generic_controller">
+<description>Generic Controller</description></object><object name="mini_micro_plc - mini_micro_plc">
+<description>Mini/Micro PLC</description></object><object name="mini_datalogger_din_mount - mini_datalogger_din_mount">
+<description>Mini Datalogger - Din Mount</description></object><object name="waes_hub_a_series - waes_hub_a_series">
+<description>WAES Hub 'A' Series</description></object><object name="waes_hub_a_series_wireless - waes_hub_a_series_wireless">
+<description>WAES Hub 'A' Series Wireless</description></object><object name="rtu_controller_din - rtu_controller_din">
+<description>RTU/Controller - Din</description></object><object name="mesh_datalogger_repeater - mesh_datalogger_repeater">
+<description>Mesh Datalogger/Repeater (Coronis WaveFlow/WaveLog/WaveTalk)</description></object><object name="three_phase_power_quality_analyser_panel_mount - three_phase_power_quality_analyser_panel_mount">
+<description>Three Phase Power Quality Analyser - Panel Mount</description></object><object name="three_phase_energy_meter_panel_mount - three_phase_energy_meter_panel_mount">
+<description>Three Phase Energy Meter - Panel Mount</description></object><object name="basic_three_phase_energy_meter_panel_mount. - basic_three_phase_energy_meter_panel_mount">
+<description>Basic Three Phase Energy Meter - Panel Mount</description></object><object name="three_phase_energy_meter_din_mount - three_phase_energy_meter_din_mount">
+<description>Three Phase Energy Meter - Din Mount</description></object><object name="single_phase_energy_meter_panel_mount - single_phase_energy_meter_panel_mount">
+<description>Single Phase Energy Meter - Panel Mount</description></object><object name="single_phase_energy_meter_din_mount - single_phase_energy_meter_din_mount">
+<description>Single Phase Energy Meter - Din Mount</description></object><object name="utility_energy_meter - utility_energy_meter">
+<description>Utility Energy Meter</description></object><object name="multi_circuit_power_monitor - multi_circuit_power_monitor">
+<description>Multi-circuit Power Monitor</description></object><object name="current_transformer_strip - current_transformer_strip">
+<description>Current Transformer Strip</description></object><object name="branch_feeder_energy_meter - branch_feeder_energy_meter">
+<description>Branch Feeder Energy Meter</description></object><object name="water_meter - water_meter">
+<description>Water Meter</description></object><object name="gas_meter - gas_meter">
+<description>Gas Meter</description></object><object name="gsm_datalogger - gsm_datalogger">
+<description>GSM Datalogger (Aegis Datacell)</description></object><object name="cctv_camera - cctv_camera">
+<description>CCTV Camera</description></object><object name="3d_laser_scanner_upright - 3d_laser_scanner_upright">
+<description>3D Laser Scanner - Upright</description></object><object name="3d_laser_scanner_inverted - 3d_laser_scanner_inverted">
+<description>3D Laser Scanner - Inverted</description></object><object name="2d_laser_scanner_right - 2d_laser_scanner_right">
+<description>2D Laser Scanner - Right</description></object><object name="2d_laser_scanner_left. - 2d_laser_scanner_left">
+<description>2D Laser Scanner - Left</description></object></contents></sheet>

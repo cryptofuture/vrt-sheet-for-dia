@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>directory_server - directory_server</name>
+        <icon>directory_server-icon.png</icon>
+        <connections>
+        <point x="15" y="10"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="21"/>
+        <point x="30" y="21"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="21" xlink:href="directory_server.svg"/>
+        </svg:svg>
+        </shape>

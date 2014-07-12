@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>VRT Servers</name>
+<description>Base on VRT extension for LibreOffice Draw</description>
+<contents>
+<!--add shapes here-->
+<object name="rack_mount - rack_mount">
+<description>Rack Mount</description></object><object name="tower_pc - tower_pc">
+<description>Tower PC</description></object><object name="industrial_pc_surface_mount - industrial_pc_surface_mount">
+<description>Industrial PC - Surface Mount</description></object><object name="industrial_pc_din_mount - industrial_pc_din_mount">
+<description>Industrial PC - Din Mount</description></object><object name="appliance_pc - appliance_pc">
+<description>Appliance PC</description></object><object name="network_attached_storage_server - network_attached_storage_server">
+<description>Network Attached Storage Server</description></object><object name="multi_role_server_tower - multi_role_server_tower">
+<description>Multi Role Server - Tower</description></object><object name="authentication_vpn_server - authentication_vpn_server">
+<description>Authentication/Vpn Server</description></object><object name="database_server - database_server">
+<description>Database Server</description></object><object name="directory_server - directory_server">
+<description>Directory Server</description></object><object name="file_server - file_server">
+<description>File Server</description></object><object name="mail_server - mail_server">
+<description>Mail Server</description></object><object name="real_time_data_server_scada - real_time_data_server_scada">
+<description>Real-time Data Server (SCADA)</description></object><object name="virtualisation_host_server - virtualisation_host_server">
+<description>Virtualisation Host Server</description></object><object name="visualisation_server - visualisation_server">
+<description>Visualisation Server</description></object><object name="webserver - webserver">
+<description>Web Server</description></object><object name="role_authentication_vpn_server - role_authentication_vpn_server">
+<description>Role: Authentication/Vpn Server</description></object><object name="role_database_server - role_database_server">
+<description>Role: Database Server</description></object><object name="role_directory_server - role_directory_server">
+<description>Role: Directory Server</description></object><object name="role_file_server - role_file_server">
+<description>Role: File Server</description></object><object name="role_mail_server - role_mail_server">
+<description>Role: Mail Server</description></object><object name="role_real_time_data_server - role_real_time_data_server">
+<description>Role: Real-time Data Server</description></object><object name="role_virtualisation_server - role_virtualisation_server">
+<description>Role: Virtualisation Server</description></object><object name="role_visualisation_server - role_visualisation_server">
+<description>Role: Visualisation Server</description></object><object name="role_webserver - role_webserver">
+<description>Role: Web Server</description></object></contents></sheet>

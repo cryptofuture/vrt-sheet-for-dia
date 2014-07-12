@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>wifi_access_point_router_upright. - wifi_access_point_router_upright</name>
+        <icon>wifi_access_point_router_upright-icon.png</icon>
+        <connections>
+        <point x="15" y="32"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="65"/>
+        <point x="30" y="65"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="65" xlink:href="wifi_access_point_router_upright.svg"/>
+        </svg:svg>
+        </shape>
