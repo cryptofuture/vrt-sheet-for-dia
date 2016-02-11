@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="24.43mm" height="24.2mm" viewBox="11668 22678 2443 2420" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <g visibility="visible" id="Slide_1">
+  <g id="DrawingGroup_1">
+   <g>
+    <path fill="rgb(252,222,187)" stroke="none" d="M 12260,24020 L 12260,22698 13518,23425 13633,23227 14090,23491 14090,25078 12260,24020 Z"/>
+    <path fill="none" stroke="rgb(251,201,142)" id="Drawing_1_0" stroke-width="40" stroke-linejoin="round" d="M 12260,24020 L 12260,22698 13518,23425 13633,23227 14090,23491 14090,25078 12260,24020 Z"/>
+   </g>
+   <g>
+    <path fill="rgb(254,244,232)" stroke="none" d="M 12260,24020 L 12031,22830 13861,23888 14090,25078 12260,24020 Z"/>
+    <path fill="none" stroke="rgb(251,201,142)" id="Drawing_2_0" stroke-width="40" stroke-linejoin="round" d="M 12260,24020 L 12031,22830 13861,23888 14090,25078 12260,24020 Z"/>
+   </g>
+   <g>
+    <path fill="rgb(254,244,232)" stroke="none" d="M 12261,24020 L 11803,23028 13633,24086 14091,25078 12261,24020 Z"/>
+    <path fill="none" stroke="rgb(251,201,142)" id="Drawing_3_0" stroke-width="40" stroke-linejoin="round" d="M 12261,24020 L 11803,23028 13633,24086 14091,25078 12261,24020 Z"/>
+   </g>
+   <g>
+    <path fill="rgb(252,222,187)" stroke="none" d="M 12260,24020 L 11688,23293 13404,24219 14090,25078 12260,24020 Z"/>
+    <path fill="none" stroke="rgb(251,201,142)" id="Drawing_4_0" stroke-width="40" stroke-linejoin="round" d="M 12260,24020 L 11688,23293 13404,24219 14090,25078 12260,24020 Z"/>
+   </g>
+   <g>
+    <path fill="none" stroke="rgb(0,0,0)" id="Drawing_5_0" stroke-width="40" stroke-linejoin="round" d="M 12260,22962 L 12260,22698 13518,23425 13632,23227 14090,23491 14090,25078 12260,24020 11688,23293 12006,23460 11802,23029 12097,23202 12031,22830 12260,22962 Z"/>
+   </g>
+  </g>
+ </g>
+</svg>
