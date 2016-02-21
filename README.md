@@ -5,9 +5,10 @@ VRT sheet for Dia. Based on [VRT extension](http://www.vrt.com.au/downloads/vrt-
 
 **Installation:**  
 <em>Local installation:</em>  
-* Copy /shapes/ and /sheetes/ folders to ~/.dia/  
+ Copy /shapes/ and /sheetes/ folders to ~/.dia/  
+ 
  <em>Global installation:</em>  
-* Copy /shapes/ and /sheetes/ folders to /usr/share/dia/ and set correct rights.
+ Copy /shapes/ and /sheetes/ folders to /usr/share/dia/ and set correct rights.
 
 **Resources:**  
 /svg contains source svg files.  
