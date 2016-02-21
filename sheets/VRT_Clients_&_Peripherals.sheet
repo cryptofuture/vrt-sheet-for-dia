@@ -1,25 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
 <name>VRT Clients &amp; Peripherals</name>
-<description>Base on VRT extension for LibreOffice Draw</description>
+<description>Based on VRT extension for LibreOffice Draw</description>
 <contents>
 <!--add shapes here-->
-<object name="desktop - desktop">
-<description>Desktop</description></object><object name="laptop - laptop">
-<description>Laptop</description></object><object name="tablet - tablet">
-<description>Tablet</description></object><object name="smartphone - smartphone">
-<description>Smartphone</description></object><object name="flat_panel_display - flat_panel_display">
-<description>Flat Panel Display</description></object><object name="industrial_panel - industrial_panel">
-<description>Industrial Panel</description></object><object name="small_industrial_panel - small_industrial_panel">
-<description>Small Industrial Panel</description></object><object name="small_touch_panel - small_touch_panel">
-<description>Small Touch Panel</description></object><object name="industrial_scanning_pda - industrial_scanning_pda">
-<description>Industrial Scanning PDA</description></object><object name="desk_phone - desk_phone">
-<description>Desk Phone</description></object><object name="projector - projector">
-<description>Projector</description></object><object name="laser_printer - laser_printer">
-<description>Laser Printer</description></object><object name="inkjet_printer - inkjet_printer">
-<description>Inkjet Printer</description></object><object name="facsimile - facsimile">
-<description>Facsimile</description></object><object name="usb_key_1 - usb_key_1">
-<description>USB Key 1</description></object><object name="usb_key_2 - usb_key_2">
-<description>USB Key 2</description></object><object name="usb_key_3 - usb_key_3">
-<description>USB Key 3</description></object><object name="usb_key_4 - usb_key_4">
-<description>USB Key 4</description></object></contents></sheet>
+<object name="vrt_clients_peripherals - desktop_left_gray"><description>Desktop (left gray)</description></object>
+<object name="vrt_clients_peripherals - desktop_left_black"><description>Desktop (left black)</description></object>
+<object name="vrt_clients_peripherals - desktop_right_gray"><description>Desktop (right gray)</description></object>
+<object name="vrt_clients_peripherals - desktop_right_black"><description>Desktop (right black)</description></object>
+<object name="vrt_clients_peripherals - thin_client_left_gray"><description>Thin Client (left gray)</description></object>
+<object name="vrt_clients_peripherals - thin_client_left_black"><description>Think Client (left black)</description></object>
+<object name="vrt_clients_peripherals - thin_client_right_gray"><description>Think Client (right gray)</description></object>
+<object name="vrt_clients_peripherals - thin_client_right_black"><description>Thin Client (right black)</description></object>
+<object name="vrt_clients_peripherals - laptop_left_gray"><description>Laptop (left gray)</description></object>
+<object name="vrt_clients_peripherals - laptop_left_black"><description>Laptop (left black)</description></object>
+<object name="vrt_clients_peripherals - laptop_right_gray"><description>Laptop (right gray)</description></object>
+<object name="vrt_clients_peripherals - laptop_right_black"><description>Laptop (right black)</description></object>
+<object name="vrt_clients_peripherals - tablet_left_gray"><description>Tablet (left gray)</description></object>
+<object name="vrt_clients_peripherals - tablet_left_black"><description>Tablet (left black)</description></object>
+<object name="vrt_clients_peripherals - tablet_right_gray"><description>Tablet (right gray)</description></object>
+<object name="vrt_clients_peripherals - tablet_right_black"><description>Tablet (right black)</description></object>
+<object name="vrt_clients_peripherals - smartphone_left_gray"><description>Smartphone (left gray)</description></object>
+<object name="vrt_clients_peripherals - smartphone_left_black"><description>Smartphone (left black)</description></object>
+<object name="vrt_clients_peripherals - smartphone_right_gray"><description>Smartphone (right gray)</description></object>
+<object name="vrt_clients_peripherals - smartphone_right_black"><description>Smartphone (right black)</description></object>
+<object name="vrt_clients_peripherals - telephone_left_gray"><description>Telephone (left gray)</description></object>
+<object name="vrt_clients_peripherals - telephone_left_black"><description>Telephone (left black)</description></object>
+<object name="vrt_clients_peripherals - telephone_right_gray"><description>Telephone (right gray)</description></object>
+<object name="vrt_clients_peripherals - telephone_right_black"><description>Telephone (right black)</description></object>
+<object name="vrt_clients_peripherals - facsimile_left_gray"><description>Facsimile (left gray)</description></object>
+<object name="vrt_clients_peripherals - facsimile_left_black"><description>Facsimile (left black)</description></object>
+<object name="vrt_clients_peripherals - facsimile_right_gray"><description>Facsimile (right gray)</description></object>
+<object name="vrt_clients_peripherals - facsimile_right_black"><description>Facsimile (right black)</description></object>
+<object name="vrt_clients_peripherals - document_scanner_left_gray"><description>Document Scanner (left gray)</description></object>
+<object name="vrt_clients_peripherals - document_scanner_left_black"><description>Document Scanner (left black)</description></object>
+<object name="vrt_clients_peripherals - document_scanner_right_gray"><description>Document Scanner (right gray)</description></object>
+<object name="vrt_clients_peripherals - document_scanner_right_black"><description>Document Scanner (right black)</description></object>
+<object name="vrt_clients_peripherals - document_scanner_open_left_gray"><description>Document Scanner (open left gray)</description></object>
+<object name="vrt_clients_peripherals - document_scanner_open_left_black"><description>Document Scanner (open left black)</description></object>
+<object name="vrt_clients_peripherals - document_scanner_open_right_gray"><description>Document Scanner (open right gray)</description></object>
+<object name="vrt_clients_peripherals - document_scanner_open_right_black"><description>Document Scanner (open right black)</description></object>
+<object name="vrt_clients_peripherals - inkjet_printer_left_gray"><description>InkJet Printer (left gray)</description></object>
+<object name="vrt_clients_peripherals - inkjet_printer_left_black"><description>InkJet Printer (left black)</description></object>
+<object name="vrt_clients_peripherals - inkjet_printer_right_gray"><description>InkJet Printer (right gray)</description></object>
+<object name="vrt_clients_peripherals - inkjet_printer_right_black"><description>InkJet Printer (right black)</description></object>
+<object name="vrt_clients_peripherals - laser_printer_left_gray"><description>Laser Printer (left gray)</description></object>
+<object name="vrt_clients_peripherals - laser_printer_left_black"><description>Laser Printer (left black)</description></object>
+<object name="vrt_clients_peripherals - laser_printer_right_gray"><description>Laser Printer (right gray)</description></object>
+<object name="vrt_clients_peripherals - laser_printer_right_black"><description>Laser printer (right black)</description></object>
+<object name="vrt_clients_peripherals - industrial_barcode_scanner_left_gray"><description>Industrial Barcode Scanner (left gray)</description></object>
+<object name="vrt_clients_peripherals - industrial_barcode_scanner_left_black"><description>Industrial Barcode Scanner (left black)</description></object>
+<object name="vrt_clients_peripherals - industrial_barcode_scanner_right_gray"><description>Industrial Barcode Scanner (right gray)</description></object>
+<object name="vrt_clients_peripherals - industrial_barcode_scanner_right_black"><description>Industrial Barcode Scanner (right black)</description></object>
+<object name="vrt_clients_peripherals - usb_key_dongle_horizontal_front_right"><description>Usb Key/Dongle (horizontal front right)</description></object>
+<object name="vrt_clients_peripherals - usb_key_dongle_vertical_front_right"><description>Usb Key/Dongle (vertical front right)</description></object>
+<object name="vrt_clients_peripherals - usb_key_dongle_horizontal_front_left"><description>Usb Key/Dongle (horizontal front left)</description></object>
+<object name="vrt_clients_peripherals - usb_key_dongle_vertical_front_left"><description>Usb Key/Dongle (vertical front left)</description></object>
+<object name="vrt_clients_peripherals - usb_key_dongle_horizontal_back_right"><description>Usb Key/Dongle (horizontal back right)</description></object>
+<object name="vrt_clients_peripherals - usb_key_dongle_vertical_back_right"><description>Usb Key/Dongle (vertical back right)</description></object>
+<object name="vrt_clients_peripherals - usb_key_dongle_horizontal_back_left"><description>Usb Key/Dongle (horizontal back left)</description></object>
+<object name="vrt_clients_peripherals - usb_key_dongle_vertical_back_left"><description>Usb Key/Dongle (vertical back left)</description></object>
+<object name="vrt_clients_peripherals - end_users1"><description>End Users #1</description></object>
+<object name="vrt_clients_peripherals - end_users2"><description>End Users #2</description></object>
+</contents>
+</sheet>

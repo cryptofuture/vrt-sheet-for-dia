@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>VRT Energy Management</name>
+<description>Based on VRT extension for LibreOffice Draw</description>
+<contents>
+<!--add shapes here-->
+<object name="vrt_energy_management - single-phase_energy_meter_left_gray"><description>Single-phase Energy Meter (left gray)</description></object>
+<object name="vrt_energy_management - single-phase_energy_meter_left_black"><description>Single-phase Energy Meter (left black)</description></object>
+<object name="vrt_energy_management - three-phase_energy_meter_left_gray"><description>Three-phase Energy Meter (left gray)</description></object>
+<object name="vrt_energy_management - three-phase_energy_meter_left_black"><description>Three-phase Energy Meter (left black)</description></object>
+<object name="vrt_energy_management - three-phase_multi-function_meter_left_gray"><description>Three-phase Multi-function Meter (left gray)</description></object>
+<object name="vrt_energy_management - three-phase_multi-function_meter_left_black"><description>Three-phase Multi-function Meter (left_black)</description></object>
+<object name="vrt_energy_management - three-phase_power_quality_analyser_left_gray"><description>Three-phase Power Quality Analyser (left gray)</description></object>
+<object name="vrt_energy_management - three-phase_power_quality_analyser_left_black"><description>Three-phase Power Quality Analyser (left black)</description></object>
+<object name="vrt_energy_management - cet_multi-circuit_power_monitor"><description>CET Multi-circuit Power Monitor (MCPM)</description></object>
+<object name="vrt_energy_management - current_transformer_strip"><description>Current Transformer Strip</description></object>
+<object name="vrt_energy_management - branch_feeder_monitor"><description>Branch Feeder Monitor</description></object>
+<object name="vrt_energy_management - single-phase_energy_meter"><description>Single-phase Energy Meter (DIN)</description></object>
+<object name="vrt_energy_management - three-phase_energy_meter"><description>Three-phase Energy Meter (DIN)</description></object>
+<object name="vrt_energy_management - energy_utility_meter"><description>Energy Utility Meter</description></object>
+<object name="vrt_energy_management - water_or_thermal_meter"><description>Water/Thermal Meter</description></object>
+<object name="vrt_energy_management - gas_meter"><description>Gas Meter</description></object>
+<object name="vrt_energy_management - wages_hub_a_series_gray"><description>WAGES Hub 'A' Series (gray)</description></object>
+<object name="vrt_energy_management - wages_hub_a_series_black"><description>WAGES Hub 'A' Series (black)</description></object>
+<object name="vrt_energy_management - cellular_datalogger_gray"><description>'Aegis Datacell' Cellular Datalogger (gray)</description></object>
+<object name="vrt_energy_management - cellular_datalogger_black"><description>'Aegis Datacell' Cellular Datalogger (black)</description></object>
+<object name="vrt_energy_management - coronis_wavenis_mesh_mote"><description>Coronis Wavenis (WaveFlow/WaveLog/WaveTalk mesh mote)</description></object>
+<object name="vrt_energy_management - coronis_wavenis_mesh_base_station"><description>Coronis Wavenis (WavePort mesh base station)</description></object>
+<object name="vrt_energy_management - lead-acid_battery_gray"><description>Lead-acid Battery (gray)</description></object>
+<object name="vrt_energy_management - lead-acid_battery_black"><description>Lead-acid Battery (black)</description></object>
+<object name="vrt_energy_management - solar_pv_panel_left"><description>Solar PV Panel (left)</description></object>
+<object name="vrt_energy_management - solar_pv_panel_right"><description>Solar PV Panel (right)</description></object>
+<object name="vrt_energy_management - uninterruptible_power_supply_gray"><description>Uninterruptible Power Supply [UPS] (gray)</description></object>
+<object name="vrt_energy_management - uninterruptible_power_supply_black"><description>Uninterruptible Power Supply [UPS] (black)</description></object>
+</contents>
+</sheet>

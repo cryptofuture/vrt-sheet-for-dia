@@ -1,32 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
 <name>VRT Servers</name>
-<description>Base on VRT extension for LibreOffice Draw</description>
+<description>Based on VRT extension for LibreOffice Draw</description>
 <contents>
 <!--add shapes here-->
-<object name="rack_mount - rack_mount">
-<description>Rack Mount</description></object><object name="tower_pc - tower_pc">
-<description>Tower PC</description></object><object name="industrial_pc_surface_mount - industrial_pc_surface_mount">
-<description>Industrial PC - Surface Mount</description></object><object name="industrial_pc_din_mount - industrial_pc_din_mount">
-<description>Industrial PC - Din Mount</description></object><object name="appliance_pc - appliance_pc">
-<description>Appliance PC</description></object><object name="network_attached_storage_server - network_attached_storage_server">
-<description>Network Attached Storage Server</description></object><object name="multi_role_server_tower - multi_role_server_tower">
-<description>Multi Role Server - Tower</description></object><object name="authentication_vpn_server - authentication_vpn_server">
-<description>Authentication/Vpn Server</description></object><object name="database_server - database_server">
-<description>Database Server</description></object><object name="directory_server - directory_server">
-<description>Directory Server</description></object><object name="file_server - file_server">
-<description>File Server</description></object><object name="mail_server - mail_server">
-<description>Mail Server</description></object><object name="real_time_data_server_scada - real_time_data_server_scada">
-<description>Real-time Data Server (SCADA)</description></object><object name="virtualisation_host_server - virtualisation_host_server">
-<description>Virtualisation Host Server</description></object><object name="visualisation_server - visualisation_server">
-<description>Visualisation Server</description></object><object name="webserver - webserver">
-<description>Web Server</description></object><object name="role_authentication_vpn_server - role_authentication_vpn_server">
-<description>Role: Authentication/Vpn Server</description></object><object name="role_database_server - role_database_server">
-<description>Role: Database Server</description></object><object name="role_directory_server - role_directory_server">
-<description>Role: Directory Server</description></object><object name="role_file_server - role_file_server">
-<description>Role: File Server</description></object><object name="role_mail_server - role_mail_server">
-<description>Role: Mail Server</description></object><object name="role_real_time_data_server - role_real_time_data_server">
-<description>Role: Real-time Data Server</description></object><object name="role_virtualisation_server - role_virtualisation_server">
-<description>Role: Virtualisation Server</description></object><object name="role_visualisation_server - role_visualisation_server">
-<description>Role: Visualisation Server</description></object><object name="role_webserver - role_webserver">
-<description>Role: Web Server</description></object></contents></sheet>
+<object name="vrt_servers - tower_server_gray"><description>Tower Server (gray)</description></object>
+<object name="vrt_servers - tower_server_black"><description>Tower Server (black)</description></object>
+<object name="vrt_servers - multi-role_tower_server_gray"><description>Multi-Role Server (gray)</description></object>
+<object name="vrt_servers - multi-role_tower_server_black"><description>Multi-Role Server (black)</description></object>
+<object name="vrt_servers - 42u_server_rack"><description>42U Server Rack</description></object>
+<object name="vrt_servers - 42u_server_rack_open"><description>42U Server Rack (open)</description></object>
+<object name="vrt_servers - 19in_rack_server_gray"><description>19in Rack Server (gray)</description></object>
+<object name="vrt_servers - 19in_rack_server_black"><description>19in Rack Server (black)</description></object>
+<object name="vrt_servers - authentication_server_gray"><description>Authentication Server (gray)</description></object>
+<object name="vrt_servers - authentication_server_black"><description>Authentication Server (black)</description></object>
+<object name="vrt_servers - database_server_gray"><description>Database Server (gray)</description></object>
+<object name="vrt_servers - database_server_black"><description>Database Server (black)</description></object>
+<object name="vrt_servers - directory_server_gray"><description>Directory Server (gray)</description></object>
+<object name="vrt_servers - directory_server_black"><description>Directory Server (black)</description></object>
+<object name="vrt_servers - file_server_gray"><description>File Server (gray)</description></object>
+<object name="vrt_servers - file_server_black"><description>File Server (black)</description></object>
+<object name="vrt_servers - mail_server_gray"><description>Mail Server (gray)</description></object>
+<object name="vrt_servers - mail_server_black"><description>Mail Server (black)</description></object>
+<object name="vrt_servers - data_acquisition_server_gray"><description>Data Acquisition [SCADA] Server (gray)</description></object>
+<object name="vrt_servers - data_acquisition_server_black"><description>Data Acquisition [SCADA] Server (black)</description></object>
+<object name="vrt_servers - virtualisation_server_gray"><description>Virtualisation Server (gray)</description></object>
+<object name="vrt_servers - virtualisation_server_black"><description>Virtualisation Server (black)</description></object>
+<object name="vrt_servers - visualisation_object_server_gray"><description>Visualisation/Object Server (gray)</description></object>
+<object name="vrt_servers - visualisation_object_server_black"><description>Visualisation/Object Server (black)</description></object>
+<object name="vrt_servers - video_server_gray"><description>Video Server (gray)</description></object>
+<object name="vrt_servers - video_server_black"><description>Video Server (black)</description></object>
+<object name="vrt_servers - web_server_gray"><description>Web Server (gray)</description></object>
+<object name="vrt_servers - web_server_black"><description>Web Server (black)</description></object>
+<object name="vrt_servers - appliance_gray"><description>Appliance (gray)</description></object>
+<object name="vrt_servers - appliance_black"><description>Appliance (black)</description></object>
+<object name="vrt_servers - network_attached_storage_gray"><description>Network Attached Storage [NAS] (gray)</description></object>
+<object name="vrt_servers - network_attached_storage_black"><description>Network Attached Storage [NAS] (black)</description></object>
+<object name="vrt_servers - role_emblem_authentication"><description>Role Emblem: Authentication</description></object>
+<object name="vrt_servers - role_emblem_directory"><description>Role Emblem: Directory</description></object>
+<object name="vrt_servers - role_emblem_database"><description>Role Emblem: Database</description></object>
+<object name="vrt_servers - role_emblem_file"><description>Role Emblem: File</description></object>
+<object name="vrt_servers - role_emblem_mail"><description>Role Emblem: Mail</description></object>
+<object name="vrt_servers - role_emblem_data_acquisition"><description>Role Emblem: Data Acquisition [SCADA]</description></object>
+<object name="vrt_servers - role_emblem_virtualisation"><description>Role Emblem: Virtualisation</description></object>
+<object name="vrt_servers - role_emblem_visualisation"><description>Role Emblem: Visualisation</description></object>
+<object name="vrt_servers - role_emblem_video"><description>Role Emblem: Video</description></object>
+<object name="vrt_servers - role_emblem_web"><description>Role Emblem: Web</description></object>
+</contents>
+</sheet>

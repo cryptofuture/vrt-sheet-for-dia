@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>vrt_servers - role_emblem_file</name>
+        <icon>role_emblem_file-icon.png</icon>
+        <connections>
+        <point x="15" y="14"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="29"/>
+        <point x="30" y="29"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="29" xlink:href="role_emblem_file.svg"/>
+        </svg:svg>
+        </shape>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>vrt_industrial_automation - generic_plc_dcs_controller_gray</name>
+        <icon>generic_plc_dcs_controller_gray-icon.png</icon>
+        <connections>
+        <point x="15" y="15"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="30"/>
+        <point x="30" y="30"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="30" xlink:href="generic_plc_dcs_controller_gray.svg"/>
+        </svg:svg>
+        </shape>

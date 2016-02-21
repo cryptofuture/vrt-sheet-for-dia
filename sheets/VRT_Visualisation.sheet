@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>VRT Visualisation</name>
+<description>Based on VRT extension for LibreOffice Draw</description>
+<contents>
+<!--add shapes here-->
+<object name="vrt_visualisation - projector_gray"><description>Projector (gray)</description></object>
+<object name="vrt_visualisation - projector_black"><description>Projector (black)</description></object>
+<object name="vrt_visualisation - flat_panel_display_gray"><description>Flat Panel Display (gray)</description></object>
+<object name="vrt_visualisation - flat_panel_display_black"><description>Flat Panel Display (black)</description></object>
+<object name="vrt_visualisation - video_wall_cube"><description>Video Wall Cube</description></object>
+<object name="vrt_visualisation - video_wall"><description>Video Wall</description></object>
+<object name="vrt_visualisation - cctv_camera_right_gray"><description>CCTV Camera (right gray)</description></object>
+<object name="vrt_visualisation - cctv_camera_right_black"><description>CCTV Camera (right black)</description></object>
+<object name="vrt_visualisation - cctv_camera_left_gray"><description>CCTV Camera (left gray)</description></object>
+<object name="vrt_visualisation - cctv_camera_left_black"><description>CCTV Camera (left black)</description></object>
+<object name="vrt_visualisation - 2d_laser_scanner_right"><description>2D Laser Scanner (right)</description></object>
+<object name="vrt_visualisation - 2d_laser_scanner_left"><description>2D Laser Scanner (left)</description></object>
+<object name="vrt_visualisation - 2d_laser_scanner_right_old"><description>2D Laser Scanner (right old)</description></object>
+<object name="vrt_visualisation - 2d_laser_scanner_left_old"><description>2D Laser Scanner (left old)</description></object>
+<object name="vrt_visualisation - 3d_laser_scanner_down"><description>3D Laser Scanner (up)</description></object>
+<object name="vrt_visualisation - 3d_laser_scanner_up"><description>3D Laser Scanner (down)</description></object>
+<object name="vrt_visualisation - 3d_laser_scanner_upright"><description>3D Laser Scanner (old up)</description></object>
+<object name="vrt_visualisation - 3d_laser_scanner_inverted"><description>3D Laser Scanner (old down)</description></object>
+</contents>
+</sheet>

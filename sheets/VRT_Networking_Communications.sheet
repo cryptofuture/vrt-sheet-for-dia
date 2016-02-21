@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>VRT Networking &amp; Communications</name>
+<description>Based on VRT extension for LibreOffice Draw</description>
+<contents>
+<!--add shapes here-->
+<object name="vrt_networking_communications - hub_right"><description>Hub (right)</description></object>
+<object name="vrt_networking_communications - hub_left"><description>Hub (left)</description></object>
+<object name="vrt_networking_communications - switch_right"><description>Switch (right)</description></object>
+<object name="vrt_networking_communications - switch_left"><description>Switch (left)</description></object>
+<object name="vrt_networking_communications - router"><description>Router</description></object>
+<object name="vrt_networking_communications - wireless_router"><description>Wireless Router</description></object>
+<object name="vrt_networking_communications - router_firewall"><description>Router Firewall</description></object>
+<object name="vrt_networking_communications - wireless_router_firewall"><description>Wireless Router Firewall</description></object>
+<object name="vrt_networking_communications - wireless_access_point"><description>Wireless Access Point</description></object>
+<object name="vrt_networking_communications - wireless_access_point_with_antenna"><description>Wireless Access Point (with antenna)</description></object>
+<object name="vrt_networking_communications - atm_switch_right"><description>ATM Switch (right)</description></object>
+<object name="vrt_networking_communications - atm_switch_left"><description>ATM Switch (left)</description></object>
+<object name="vrt_networking_communications - communications_server"><description>Communications Server</description></object>
+<object name="vrt_networking_communications - directory_server"><description>Directory Server</description></object>
+<object name="vrt_networking_communications - firewall_left"><description>Firewall (left)</description></object>
+<object name="vrt_networking_communications - firewall_right"><description>Firewall (right)</description></object>
+<object name="vrt_networking_communications - vpn_concentrator_right"><description>VPN Concentrator (right)</description></object>
+<object name="vrt_networking_communications - vpn_concentrator_left"><description>VPN Concentrator (left)</description></object>
+<object name="vrt_networking_communications - wired_segment_subnet"><description>Wired Segment/Subnet</description></object>
+<object name="vrt_networking_communications - wireless_network_internet"><description>Wireless Network/Internet</description></object>
+<object name="vrt_networking_communications - wireless_base_gray"><description>Wireless Base (gray)</description></object>
+<object name="vrt_networking_communications - wireless_base_black"><description>Wireless Base (black)</description></object>
+<object name="vrt_networking_communications - microwave_satellite_base_gray"><description>Microwave/Satellite Base (gray)</description></object>
+<object name="vrt_networking_communications - microwave_satellite_base_black"><description>Microwave / Satellite Base (black)</description></object>
+<object name="vrt_networking_communications - rackmount_switch_gray"><description>Rackmount Switch (gray)</description></object>
+<object name="vrt_networking_communications - rackmount_switch_black"><description>Rackmount Switch (black)</description></object>
+<object name="vrt_networking_communications - workgroup_switch_gray"><description>Workgroup Switch (gray)</description></object>
+<object name="vrt_networking_communications - workgroup_switch_black"><description>Workgroup Switch (black)</description></object>
+<object name="vrt_networking_communications - industrial_switch_gray"><description>Industrial Switch (gray)</description></object>
+<object name="vrt_networking_communications - industrial_switch_black"><description>Industrial Switch (black)</description></object>
+<object name="vrt_networking_communications - router_gray"><description>Router (gray)</description></object>
+<object name="vrt_networking_communications - router_black"><description>Router (black)</description></object>
+<object name="vrt_networking_communications - fibre_optic_breakout_tray_gray"><description>Fibre Optic Break-out Tray (gray)</description></object>
+<object name="vrt_networking_communications - fibre_optic_breakout_tray_black"><description>Fibre Optic Break-out Tray (black)</description></object>
+<object name="vrt_networking_communications - industrial_fibre_ethernet_converter_gray"><description>Industrial Fibre/Ethernet Converter (gray)</description></object>
+<object name="vrt_networking_communications - industrial_fibre_ethernet_converter_black"><description>Industrial Fibre/Ethernet Converter (black)</description></object>
+<object name="vrt_networking_communications - industrial_ethernet_serial_converter_gray"><description>Industrial Ethernet/Serial Converter (gray)</description></object>
+<object name="vrt_networking_communications - industrial_ethernet_serial_converter_black"><description>Industrial Ethernet/Serial Converter (black)</description></object>
+<object name="vrt_networking_communications - unified_communications_server_gray"><description>Unified Communications Server (gray)</description></object>
+<object name="vrt_networking_communications - unified_communications_server_black"><description>Unified Communications Server (black)</description></object>
+<object name="vrt_networking_communications - wireless_router_access_point_gray"><description>Wireless Router/Access Point (gray)</description></object>
+<object name="vrt_networking_communications - wireless_router_access_point_black"><description>Wireless Router/Access Point (black)</description></object>
+<object name="vrt_networking_communications - wireless_router_access_point_standing_gray"><description>Wireless Router/Access Point (standing gray)</description></object>
+<object name="vrt_networking_communications - wireless_router_access_point_standing_black"><description>Wireless Router/Access Point (standing black)</description></object>
+<object name="vrt_networking_communications - dialup_modem_gray"><description>Dial-up Modem (gray)</description></object>
+<object name="vrt_networking_communications - dialup_modem_black"><description>Dial-up Modem (black)</description></object>
+<object name="vrt_networking_communications - industrial_cellular_modem_gray"><description>Industrial Cellular Modem (gray)</description></object>
+<object name="vrt_networking_communications - industrial_cellular_modem_black"><description>Industrial Cellular Modem (black)</description></object>
+<object name="vrt_networking_communications - industrial_cellular_modem_2_gray"><description>Industrial Cellular Modem  (small gray)</description></object>
+<object name="vrt_networking_communications - industrial_cellular_modem_2_black"><description>Industrial Cellular Modem (small black)</description></object>
+</contents>
+</sheet>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>VRT Industrial Automation</name>
+<description>Based on VRT extension for LibreOffice Draw</description>
+<contents>
+<!--add shapes here-->
+<object name="vrt_industrial_automation - generic_plc_dcs_controller_gray"><description>Generic PLC/DCS Controller (gray)</description></object>
+<object name="vrt_industrial_automation - generic_plc_dcs_controller_black"><description>Generic PLC/DCS Controller (black)</description></object>
+<object name="vrt_industrial_automation - compact_plc_gray"><description>Compact PLC (gray)</description></object>
+<object name="vrt_industrial_automation - compact_plc_black"><description>Compact PLC (black)</description></object>
+<object name="vrt_industrial_automation - data_logger_rtu_gray"><description>Data Logger/RTU (gray)</description></object>
+<object name="vrt_industrial_automation - data_logger_rtu_black"><description>Data Logger/RTU (black)</description></object>
+<object name="vrt_industrial_automation - industrial_pc_gray"><description>Industrial PC (gray)</description></object>
+<object name="vrt_industrial_automation - industrial_pc_black"><description>Industrial PC (black)</description></object>
+<object name="vrt_industrial_automation - industrial_pc_slim_gray"><description>Industrial PC (slim gray)</description></object>
+<object name="vrt_industrial_automation - industrial_pc_slim_black"><description>Industrial PC (slim black)</description></object>
+<object name="vrt_industrial_automation - generic_black_box_gray"><description>Generic "Black Box" (gray)</description></object>
+<object name="vrt_industrial_automation - generic_black_box_black"><description>Generic "Black Box" (black)</description></object>
+<object name="vrt_industrial_automation - large_hmi_panel_gray"><description>Large HMI Panel (gray)</description></object>
+<object name="vrt_industrial_automation - large_hmi_panel_black"><description>Large HMI Panel (black)</description></object>
+<object name="vrt_industrial_automation - small_hmi_panel_gray"><description>Small HMI Panel (gray)</description></object>
+<object name="vrt_industrial_automation - small_hmi_panel_black"><description>Small HMI Panel (black)</description></object>
+<object name="vrt_industrial_automation - small_touch_panel_gray"><description>Small Touch Panel (gray)</description></object>
+<object name="vrt_industrial_automation - small_touch_panel_black"><description>Small Touch Panel (black)</description></object>
+<object name="vrt_industrial_automation - allen-bradley_controllogix_plc"><description>Allen-Bradley ControlLogix PLC</description></object>
+<object name="vrt_industrial_automation - allen-bradley_flexio"><description>Allen-Bradley FlexIO</description></object>
+<object name="vrt_industrial_automation - allen-bradley_flexio_small"><description>Allen-Bradley FlexIO (small)</description></object></contents></sheet>

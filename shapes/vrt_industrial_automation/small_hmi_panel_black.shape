@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>vrt_industrial_automation - small_hmi_panel_black</name>
+        <icon>small_hmi_panel_black-icon.png</icon>
+        <connections>
+        <point x="15" y="16"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="32"/>
+        <point x="30" y="32"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="32" xlink:href="small_hmi_panel_black.svg"/>
+        </svg:svg>
+        </shape>

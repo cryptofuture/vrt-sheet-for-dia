@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <name>vrt_networking_communications - vpn_concentrator_left</name>
+        <icon>vpn_concentrator_left-icon.png</icon>
+        <connections>
+        <point x="15" y="11"/>
+        <point x="0" y="0"/>
+        <point x="30" y="0"/>
+        <point x="0" y="23"/>
+        <point x="30" y="23"/>
+        </connections>
+        <aspectratio type="fixed"/>
+        <svg:svg>
+        <svg:image x="0" y="0" width="30" height="23" xlink:href="vpn_concentrator_left.svg"/>
+        </svg:svg>
+        </shape>
