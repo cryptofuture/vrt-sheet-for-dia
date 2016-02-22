@@ -3,7 +3,7 @@ vrt-sheet-for-dia
 
 VRT sheet for Dia. Based on [VRT extension](http://www.vrt.com.au/downloads/vrt-network-equipment) for LibreOffice Draw.
 
-**Installation:**  
+# Installation:  
 <em>Local installation:</em>  
  Copy /shapes/ and /sheetes/ folders to ~/.dia/  
 <em>Global installation:</em>  
@@ -25,12 +25,12 @@ dpkg -i vrt-sheet-for-dia_0.2-ppa15_all.deb #you need root access for that
 
 
 
-**Resources:**  
+# Resources: 
 /svg folder contains source svg files.  
 /png folder contains png pictures.  
 For use with Inkscape, GIMP, darktable, Krita, MyPaint ...
 
-**Donation:**  
+# Donation:
 Bitcoin: 1N5czHaoSLukFSTq2ZJujaWGjkmBxv2dT9
 
 ![alt tag](http://www.vrt.com.au/sites/default/files/preview_sheet_2.png)
