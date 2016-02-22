@@ -7,7 +7,23 @@ VRT sheet for Dia. Based on [VRT extension](http://www.vrt.com.au/downloads/vrt-
 <em>Local installation:</em>  
  Copy /shapes/ and /sheetes/ folders to ~/.dia/  
 <em>Global installation:</em>  
- Copy /shapes/ and /sheetes/ folders to /usr/share/dia/ and set correct rights.
+ Copy /shapes/ and /sheetes/ folders to /usr/share/dia/ and set correct rights.    
+<em>Installation on Ubuntu</em>  
+You can add ppa:hda-me/vrt-sheet-for-dia and install package vrt-sheet-for-dia after.  
+```
+sudo apt-add-repository ppa:hda-me/vrt-sheet-for-dia
+sudo apt-get update
+sudo apt-get install vrt-sheet-for-dia
+```
+<em>Installation on Debian:<em>  
+If you using Debian you can install deb with dpkg.   
+```
+wget https://launchpad.net/~hda-me/+archive/ubuntu/vrt-sheet-for-dia/+files/vrt-sheet-for-dia_0.2-ppa15_all.deb
+dpkg -i vrt-sheet-for-dia_0.2-ppa15_all.deb #you need root access for that
+```
+
+
+
 
 **Resources:**  
 /svg folder contains source svg files.  
