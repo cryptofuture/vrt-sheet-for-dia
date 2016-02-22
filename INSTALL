@@ -1,0 +1,5 @@
+Installation:
+Local installation:
+Copy /shapes/ and /sheetes/ folders to ~/.dia/
+Global installation:
+Copy /shapes/ and /sheetes/ folders to /usr/share/dia/ and set correct rights.
