@@ -28,7 +28,7 @@ dpkg -i vrt-sheet-for-dia_0.2-ppa15_all.deb #you need root access for that
 # Resources: 
 /svg folder contains source svg files.  
 /png folder contains png pictures.  
-For use with Inkscape, GIMP, darktable, Krita, MyPaint ...
+<em>For use with Inkscape, GIMP, darktable, Krita, MyPaint ...</em>
 
 # Donation:
 Bitcoin: 1N5czHaoSLukFSTq2ZJujaWGjkmBxv2dT9
