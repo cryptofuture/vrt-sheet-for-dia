@@ -15,7 +15,7 @@ sudo apt-add-repository ppa:hda-me/vrt-sheet-for-dia
 sudo apt-get update
 sudo apt-get install vrt-sheet-for-dia
 ```
-<em>Installation on Debian:<em>  
+<em>Installation on Debian:</em>  
 If you using Debian you can install deb with dpkg.   
 ```
 wget https://launchpad.net/~hda-me/+archive/ubuntu/vrt-sheet-for-dia/+files/vrt-sheet-for-dia_0.2-ppa15_all.deb
