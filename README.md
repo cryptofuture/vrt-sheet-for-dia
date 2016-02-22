@@ -8,7 +8,7 @@ VRT sheet for Dia. Based on [VRT extension](http://www.vrt.com.au/downloads/vrt-
  Copy /shapes/ and /sheetes/ folders to ~/.dia/  
 <em>Global installation:</em>  
  Copy /shapes/ and /sheetes/ folders to /usr/share/dia/ and set correct rights.    
-<em>Installation on Ubuntu</em>  
+<em>Installation on Ubuntu:</em>  
 You can add ppa:hda-me/vrt-sheet-for-dia and install package vrt-sheet-for-dia after.  
 ```
 sudo apt-add-repository ppa:hda-me/vrt-sheet-for-dia
