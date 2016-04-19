@@ -1,7 +1,7 @@
 vrt-sheet-for-dia
 =================
 
-VRT Sheet for Dia. Based on [VRT extension](http://www.vrt.com.au/downloads/vrt-network-equipment) for LibreOffice Draw.
+VRT Sheet For Dia. Based on [VRT extension](http://www.vrt.com.au/downloads/vrt-network-equipment) for LibreOffice Draw.
 
 ## Installation
 <em>Local installation:</em>
